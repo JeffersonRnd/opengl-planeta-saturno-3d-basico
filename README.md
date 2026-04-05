@@ -47,10 +47,6 @@ Este es un modelo **simple (sin texturas ni iluminación avanzada)**, pensado co
 
 ## ▶️ Cómo abrir el proyecto en Zinjai
 
-<p align="center">
-  <img src="zinjai.png" width="120"/>
-</p>
-
 1. Abrir **Zinjai**
 2. Ir a **Archivo → Abrir**
 3. Arrastrar los siguientes archivos al entorno:
