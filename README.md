@@ -30,21 +30,6 @@ Este es un modelo **simple (sin texturas ni iluminación avanzada)**, pensado co
 * Compilador C++
 
 ---
-
-## 📂 Estructura del proyecto
-
-```bash
-.
-├── main.cpp
-├── SATURNO.zpr
-├── debug.w32/
-├── vista-previa-saturno.png
-├── ventana.png
-└── zinjai.png
-```
-
----
-
 ## ▶️ Cómo abrir el proyecto en Zinjai
 
 1. Abrir **Zinjai**
