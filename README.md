@@ -78,14 +78,3 @@ Este proyecto puede ampliarse agregando:
 * Rotación del planeta y anillos
 * Sistema solar completo
 
----
-
-## 🎓 Uso
-
-Ideal para:
-
-* Estudiantes de computación gráfica
-* Ejemplos básicos de OpenGL
-* Base para proyectos más complejos
-
----
